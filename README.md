@@ -2,7 +2,7 @@
 
 # Hi, I'm Fabio Gustavo Ascari 👋
 
-### Backend Developer · AI Engineering Enthusiast · Software Builder
+### AI Engineer · Backend Developer · Software Builder
 
 <p>
   <a href="https://github.com/Fabio-Gustavo-Ascari">
@@ -16,12 +16,13 @@
 
 ## About me
 
-I am a backend-focused software developer passionate about building reliable systems, exploring artificial intelligence, and turning complex ideas into practical products.
+I am an **AI Engineer** and backend-focused software developer passionate about building intelligent systems, reliable APIs, and practical products powered by data and automation.
 
-My interests combine software engineering, backend architecture, automation, and AI engineering. I enjoy learning by building — from APIs and services to intelligent solutions such as **Manu Tech**.
+My work combines artificial intelligence, backend architecture, automation, and software engineering. I enjoy learning by building — from APIs and services to intelligent solutions such as **Manu Tech**.
 
-- 🔭 Currently focused on backend development and AI engineering
-- 🧠 Exploring Java, Python, software architecture, and applied AI
+- 🔭 Focused on AI engineering, intelligent applications, and backend systems
+- 🧠 Working with LLMs, RAG, AI agents, embeddings, and model evaluation
+- 🧩 Exploring LangChain, LangGraph, prompt engineering, and AI workflows
 - 🛠️ Building projects that connect engineering, automation, and intelligent systems
 - 🌎 Brazilian and Italian
 - 🚀 Always learning, experimenting, and improving
@@ -33,6 +34,19 @@ My interests combine software engineering, backend architecture, automation, and
 <p>
   <img src="https://skillicons.dev/icons?i=java,spring,python,nodejs,js,ts" alt="Java, Spring, Python, Node.js, JavaScript and TypeScript" />
 </p>
+
+<p>
+  <img src="https://img.shields.io/badge/AI%20Engineering-111827?style=for-the-badge&logo=openai&logoColor=white" alt="AI Engineering" />
+  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Large Language Models" />
+  <img src="https://img.shields.io/badge/RAG-0F766E?style=for-the-badge&logo=databricks&logoColor=white" alt="Retrieval Augmented Generation" />
+  <img src="https://img.shields.io/badge/AI%20Agents-7C3AED?style=for-the-badge&logo=probot&logoColor=white" alt="AI Agents" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-2563EB?style=for-the-badge&logo=graphql&logoColor=white" alt="LangGraph" />
+</p>
+
+### AI concepts
+
+`LLMs` · `RAG` · `Embeddings` · `Vector Search` · `AI Agents` · `Prompt Engineering` · `Tool Calling` · `Model Evaluation` · `Machine Learning` · `Deep Learning`
 
 ### Databases, tools & infrastructure
 
@@ -64,8 +78,6 @@ An ongoing project where software engineering, automation, and AI concepts come 
 <img src="https://streak-stats.demolab.com?user=Fabio-Gustavo-Ascari&theme=tokyonight&hide_border=true" alt="Fabio's GitHub streak" />
 
 <br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Fabio-Gustavo-Ascari&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Fabio's GitHub activity graph" />
 
 </div>
 
