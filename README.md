@@ -8,7 +8,7 @@
   <a href="https://github.com/Fabio-Gustavo-Ascari">
     <img src="https://img.shields.io/badge/GitHub-Fabio--Gustavo--Ascari-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
   </a>
-  <span>🇧🇷 Brazilian · 🇮🇹 Italian</span>
+  <span>Brazilian · Italian</span>
   <img src="https://komarev.com/ghpvc/?username=Fabio-Gustavo-Ascari&style=for-the-badge&color=0e75b6" alt="Profile views" />
 </p>
 
@@ -81,24 +81,12 @@ An ongoing project where software engineering, automation, and AI concepts come 
 
 </div>
 
-## Contribution snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fabio-Gustavo-Ascari/Fabio-Gustavo-Ascari/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fabio-Gustavo-Ascari/Fabio-Gustavo-Ascari/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake animation showing GitHub contributions" src="https://raw.githubusercontent.com/Fabio-Gustavo-Ascari/Fabio-Gustavo-Ascari/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
-
 ## Let's connect
 
 <div align="center">
 
 <!-- Replace the links below with your real profiles before publishing. -->
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank">
+<a href="https://www.linkedin.com/in/fabio-gustavo-ascari" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:SEU-EMAIL" target="_blank">
