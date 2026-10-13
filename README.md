@@ -8,7 +8,7 @@
   <a href="https://github.com/Fabio-Gustavo-Ascari">
     <img src="https://img.shields.io/badge/GitHub-Fabio--Gustavo--Ascari-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
   </a>
-  <span>Brazilian · Italian</span>
+  <img src="https://img.shields.io/badge/Brazilian%20%26%20Italian-009c3b?style=for-the-badge" alt="Brazilian and Italian" />
   <img src="https://komarev.com/ghpvc/?username=Fabio-Gustavo-Ascari&style=for-the-badge&color=0e75b6" alt="Profile views" />
 </p>
 
